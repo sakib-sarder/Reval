@@ -1,0 +1,15 @@
+.carousel-item1{
+    background-image: url("../image/carousel/1.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.carousel-item2{
+    background-image: url("../image/carousel/2.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.carousel-item3{
+    background-image: url("../image/carousel/3.jpg");
+    height: 100vh;
+    background-size: cover;
+}
