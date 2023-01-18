@@ -3181,8 +3181,8 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  color: #0d6efd;
-  border-color: #0d6efd;
+  color: #fff;
+  border-color: #fff;
 }
 .btn-outline-primary:hover {
   color: #fff;
@@ -7391,7 +7391,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #0d6efd !important;
+  background-color: #0c2eba !important;
 }
 
 .bg-secondary {
