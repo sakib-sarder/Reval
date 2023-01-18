@@ -2942,8 +2942,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #0c2eba;
+  border: none;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2972,13 +2972,12 @@ textarea.form-control-lg {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #50d8af;
+  border: none;
 }
 .btn-secondary:hover {
   color: #fff;
-  background-color: #5c636a;
-  border-color: #565e64;
+  background-color: #50d544;
 }
 .btn-check:focus + .btn-secondary, .btn-secondary:focus {
   color: #fff;
